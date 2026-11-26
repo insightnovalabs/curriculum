@@ -67,6 +67,18 @@ Our curriculum combines theoretical knowledge, practical examples, exercises and
 - [ ] Real-World Projects
 - [ ] Industry Specialization Pathways
 
+## Copyright & Usage
+
+Copyright © 2026 InsightNova Labs. All rights reserved.
+
+Our educational materials are publicly accessible for personal learning and study.
+
+Redistribution, commercial use and publication of adapted materials require prior written permission, except where permitted by applicable law or GitHub's Terms of Service.
+
+For full details, see our [Copyright Notice](LICENSE.md).
+
+
+
 ## Connect With Us
 
 - [GitHub](https://github.com/insightnovalabs)
